@@ -77,6 +77,10 @@ rss_el_pais/
 └── tsconfig.json      # TypeScript configuration
 ```
 
+## 📊 MongoDB Atlas Setup
+
+For MongoDB Atlas connection setup, check our [detailed MongoDB configuration guide](MONGODB.md).
+
 ## 🔮 Future Enhancements
 
 - Add scheduling to fetch RSS at regular intervals
